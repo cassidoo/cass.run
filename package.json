@@ -1,0 +1,11 @@
+{
+  "baseUrl": "https://cass-run.netlify.com",
+  "private": true,
+  "scripts": {
+    "shorten": "netlify-shortener"
+  },
+  "author": "cassidoo",
+  "devDependencies": {
+    "netlify-shortener": "^1.0.1"
+  }
+}
