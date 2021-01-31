@@ -1,5 +1,5 @@
 {
-  "baseUrl": "https://cass-run.netlify.com",
+  "baseUrl": "https://cass.run",
   "private": true,
   "scripts": {
     "shorten": "netlify-shortener"
