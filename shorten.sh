@@ -36,7 +36,7 @@ lenFunc() {
   echo ${#1}
 }
 
-# We need to folder of the script, not the pwd. This lets us
+# We need the folder of the script, not the pwd. This lets us
 # execute this script using an alias, from any directory.
 ScriptDir="$( cd "$( dirname "${BASH_SOURCE[0]}" )" &> /dev/null && pwd )"
 
