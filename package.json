@@ -6,6 +6,6 @@
   },
   "author": "cassidoo",
   "devDependencies": {
-    "netlify-shortener": "^1.0.1"
+    "netlify-shortener": "^2.4.0"
   }
 }
