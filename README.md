@@ -6,7 +6,7 @@ My own lil URL shortener
 
 ## Make your own
 
-Clicking this button will clone the repo and deploy it to Netlify, be sure to rename your repo afterwards!
+Clicking this button will clone the repo and deploy it to Netlify, be sure to rename your repo afterwards (and delete all of my personal redirects)!
 
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/cassidoo/cass.run&utm_source=github&utm_medium=shortener-cs&utm_campaign=devex)
 
